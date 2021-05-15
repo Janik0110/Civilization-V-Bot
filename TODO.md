@@ -22,4 +22,4 @@
 
 ## Game
 
-- [ ] Generate the Civilizations to choose from, for each Player
+- [x] Generate the Civilizations to choose from, for each Player
